@@ -27,6 +27,12 @@ kube-batch\pkg\scheduler\cache\event_handlers.go
 
    在kube-batch看来，当前要调度的只有一个kube-batch 作业。这个kube-batch job总共有4个Tasks(pod)需要绑定。
 
+概念结构图：
+
+![](./img/4.png)
+
+
+
 ### 2. 流程图
 
 <img src="./img/2.png" style="zoom: 67%;" />
