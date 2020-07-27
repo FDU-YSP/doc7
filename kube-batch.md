@@ -11,7 +11,7 @@ gang scheduler介绍：一个kube-batch作业（kube-batch job）可能有多个
 
 kube-batch\pkg\scheduler\cache\event_handlers.go
 
-<img src="/home/spyang/git_workspace/doc7/img/1.png" style="zoom: 50%;" />
+<img src="./img/1.png" style="zoom: 50%;" />
 
 注意：
 
@@ -29,4 +29,4 @@ kube-batch\pkg\scheduler\cache\event_handlers.go
 
 ### 2. 流程图
 
-<img src="/home/spyang/git_workspace/doc7/img/2.png" style="zoom: 67%;" />
+<img src=".img/2.png" style="zoom: 67%;" />
