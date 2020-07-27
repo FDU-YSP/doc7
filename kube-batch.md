@@ -36,3 +36,9 @@ kube-batch\pkg\scheduler\cache\event_handlers.go
 ### 2. 流程图
 
 <img src="./img/2.png" style="zoom: 67%;" />
+
+
+
+###  One-time scheduling process
+
+<img src="./img/6.png" style="zoom: 67%;" />
