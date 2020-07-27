@@ -16,7 +16,7 @@
 
 `kube-batch`是一个为kubernetes实现批量任务调度的一个调度器，主要用于`机器学习`，`大数据`，`HPC`等场景。
 
-![](./img/3.png)
+![](.\img\3.png)
 
 为了使用`gang-scheduling`，需要在kubernetes集群提前安装`kube-batch`调度器。具体的安装步骤查看官方教程: [kube-batch install](https://github.com/kubernetes-sigs/kube-batch/blob/master/doc/usage/tutorial.md)
 

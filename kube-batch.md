@@ -11,7 +11,7 @@ gang scheduler介绍：一个kube-batch作业（kube-batch job）可能有多个
 
 kube-batch\pkg\scheduler\cache\event_handlers.go
 
-<img src="./img/1.png" style="zoom: 50%;" />
+<img src=".\img\1.png" style="zoom: 50%;" />
 
 注意：
 
@@ -29,16 +29,16 @@ kube-batch\pkg\scheduler\cache\event_handlers.go
 
 概念结构图：
 
-![](./img/4.png)
+![](.\img\4.png)
 
 
 
 ### 2. 流程图
 
-<img src="./img/2.png" style="zoom: 67%;" />
+<img src=".\img\2.png" style="zoom: 67%;" />
 
 
 
 ###  One-time scheduling process
 
-<img src="./img/6.png" style="zoom: 67%;" />
+<img src=".\img\6.png" style="zoom: 67%;" />
