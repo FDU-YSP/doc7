@@ -29,4 +29,4 @@ kube-batch\pkg\scheduler\cache\event_handlers.go
 
 ### 2. 流程图
 
-<img src="/home/spyang/git_workspace/doc7/img/2.png" style="zoom: 67%;" />
+<img src="./img/2.png" style="zoom: 67%;" />
