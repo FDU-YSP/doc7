@@ -1,5 +1,9 @@
 ## kube-batch
 
+kube-batch解析：https://www.cnblogs.com/yyrdl/p/11554978.html、
+
+
+
 gang scheduler介绍：一个kube-batch作业（kube-batch job）可能有多个pods, 这些pods要不全部执行，要不一个都不执行。
 
 ### 1. 名词
